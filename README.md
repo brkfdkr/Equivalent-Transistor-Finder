@@ -5,3 +5,5 @@ Other py files are auxiliary files.
 
 Internet connection is required for use.
 This program has been prepared in Turkish language.
+
+2020 Istanbul Technical University ELK107E Final Project
